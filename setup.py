@@ -8,5 +8,5 @@ setup(
     author="DSSS",
     author_email="fatma.mami@fau.de",
     packages=find_packages(),
-    install_requires=["numpy","turtle"]
+    install_requires=["numpy","turtles"]
 )
